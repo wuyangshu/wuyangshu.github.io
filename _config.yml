@@ -23,10 +23,10 @@ baseurl: /
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://sm.ms/image/YXUL5eSDGiwZFQu
+avatar: [url=https://sm.ms/image/YXUL5eSDGiwZFQu][img]https://i.loli.net/2021/03/09/YXUL5eSDGiwZFQu.jpg[/img][/url]
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://sm.ms/image/YXUL5eSDGiwZFQu
+favicon: [url=https://sm.ms/image/YXUL5eSDGiwZFQu][img]https://i.loli.net/2021/03/09/YXUL5eSDGiwZFQu.jpg[/img][/url]
 
 # 菜单中的按钮
 navigation:
@@ -53,7 +53,7 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/wuyangshu #https://github.com/<>
+  github: wuyangshu #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
