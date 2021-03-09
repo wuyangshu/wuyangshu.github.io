@@ -6,7 +6,6 @@ Author: moose
 tags: [js, 前端]
 comments: true
 ---
-# Event Loop（事件循环机制）
 ## 前言
 
 javascript从诞生之日起就是一门单线程的非阻塞的脚本语言。单线程就意味着，javascript代码在执行的时候，都只有一个主线程来处理所有的任务。
